@@ -25,6 +25,8 @@ namespace FirstApp
             Console.WriteLine($"У меня есть питомец? {haveAPet}");
             Console.WriteLine($"Мой размер ноги {shoeSize}");
 
+            
+
             Console.ReadKey();
         }
     }
